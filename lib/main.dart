@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
             TeksUtama(
               teks1: 'JULIA KURNIA MUBAROKAH',
               teks2: 'NIM: STI202102363',
-              backgroundColor: Color.fromARGB(255, 231, 238, 44),
+              backgroundColor: Color.fromARGB(255, 7, 244, 27),
             ),
             TeksUtama(
               teks1: 'AMIN SURATUN KHASANAH', 
